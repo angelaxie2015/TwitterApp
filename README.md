@@ -31,3 +31,7 @@ Refreshing & Loading more
 
 <img src='http://g.recordit.co/Z2QLD7vnvd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Staying Logged in Across restarts & Logging out
+
+<img src='http://g.recordit.co/1ZlkcHFnyO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
